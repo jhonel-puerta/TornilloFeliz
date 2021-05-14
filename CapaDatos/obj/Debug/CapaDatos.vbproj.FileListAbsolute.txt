@@ -1,0 +1,11 @@
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\obj\Debug\CapaDatos.vbprojAssemblyReference.cache
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\jhonel\source\repos\El Tornillo Feliz\CapaDatos\obj\Debug\CapaDatos.pdb
