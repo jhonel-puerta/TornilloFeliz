@@ -1,0 +1,21 @@
+id,nombreP,precio,cantidad,descripcion
+1,clavos,18.5,72,precio por unidad
+2,martillo,20.899999999999999,20,martillo de acero
+1018,calamina,18.899999999999999,20,calamina super resistente
+1019,masilla,50,30,precio por bolsa
+1020,triplay,20,30,1 metro cuadrado
+1021,prueba,20.399999999999999,30,aqui va la descipcion
+1022,prueba,20.399999999999999,30,aqui va la descipcion
+1023,prueba,20.399999999999999,30,aqui va la descipcion
+1024,prueba,20.399999999999999,30,aqui va la descipcion
+1025,prueba,20.399999999999999,30,aqui va la descipcion
+1026,prueba,20.399999999999999,30,aqui va la descipcion
+1027,prueba,20.399999999999999,30,aqui va la descipcion
+1028,prueba,20.399999999999999,30,aqui va la descipcion
+1029,prueba,20.399999999999999,30,aqui va la descipcion
+1030,prueba,20.399999999999999,30,aqui va la descipcion
+1031,prueba,20.399999999999999,30,aqui va la descipcion
+1032,prueba,20.399999999999999,30,aqui va la descipcion
+1033,prueba,20.399999999999999,30,aqui va la descipcion
+1034,prueba,20.399999999999999,30,aqui va la descipcion
+1035,prueba,20.399999999999999,30,aqui va la descipcion
